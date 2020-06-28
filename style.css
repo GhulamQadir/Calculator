@@ -1,0 +1,31 @@
+.main{
+    border: 3px solid rgb(184, 176, 176); 
+    width: 200px;
+    margin: 0 auto;
+}
+.input{
+    width: 96%;
+    color: black;
+    background-color:white;
+}
+/* .clear{
+  width: 47% !important; 
+ color: white;
+ background-color: slategray !important;
+} */
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    width:43px;
+    height: 43px;
+    margin: 4px 2px 2px 2px;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    border-style: dotted;
+}
+.result{
+    background-color: rgb(17, 131, 17);
+}
+.clear{
+    background-color: gray;
+}
